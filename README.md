@@ -15,7 +15,9 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### 个人博客项目
+    实现个人博客的展示、博客的发表、等等功能
+
 ```
 npm run lint
 ```
